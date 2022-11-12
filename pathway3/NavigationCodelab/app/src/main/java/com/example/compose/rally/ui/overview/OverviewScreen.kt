@@ -58,6 +58,7 @@ import com.example.compose.rally.ui.components.RallyDivider
 import com.example.compose.rally.ui.components.formatAmount
 import java.util.Locale
 
+
 @Composable
 fun OverviewScreen(
     onClickSeeAllAccounts: () -> Unit = {},
